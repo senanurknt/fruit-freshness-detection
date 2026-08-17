@@ -10,6 +10,6 @@ This project classifies whether fruits (apples, bananas, oranges) are fresh or r
 ##  How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone <git clone https://github.com/senanurknt/fruit-freshness-detection.git>
    pip install -r requirements.txt
    streamlit run fresh.py
